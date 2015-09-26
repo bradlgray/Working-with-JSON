@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>D44056FE-05FD-4985-B4CF-233710B21C0D</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Working with JSON</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>FF805084585646B1E625B62A9188F357F3A00D57</key>
+		<string>https://github.com/bradlgray/Working-with-JSON.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Working with JSON.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>FF805084585646B1E625B62A9188F357F3A00D57</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/bradlgray/Working-with-JSON.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>FF805084585646B1E625B62A9188F357F3A00D57</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>FF805084585646B1E625B62A9188F357F3A00D57</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Working%20with%20JSON</string>
+		</dict>
+	</array>
+</dict>
+</plist>
